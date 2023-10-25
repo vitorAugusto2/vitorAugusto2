@@ -14,7 +14,7 @@ Sobre mim:
 
 <div class="image-container">
   <img src="https://github-readme-stats.vercel.app/api?username=vitorAugusto2&show_icons=true&theme=one_dark_pro&include_all_commit=true&count_private=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=one_dark_pro" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=one_dark_pro" width="38%" />
 </div>
 
 
