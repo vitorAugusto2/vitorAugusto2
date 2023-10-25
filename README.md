@@ -24,7 +24,7 @@ Sobre mim:
   <img align ="center" alt="Vitor-PyCharm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
 </div>
 
-##
+
 
 <div> 
   <a href = "mailto:vitor.alp20@outlook.com"  target="_blank"></a>
