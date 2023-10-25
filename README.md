@@ -8,15 +8,18 @@ Sobre mim:
 
 ##
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vitorAugusto2&show_icons=true&theme=one_dark_pro&include_all_commit=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img scr="https://github-readme-stats.vercel.app/api?username=vitorAugusto2&show_icons=true&theme=one_dark_pro&include_all_commit=true&count_private=true"/>
-</picture>
 
-##
+
+
+
+<div class="image-container">
+  <img src="https://github-readme-stats.vercel.app/api?username=vitorAugusto2&show_icons=true&theme=one_dark_pro&include_all_commit=true&count_private=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=one_dark_pro" width="50%" />
+</div>
+
+
+
+
 
 <div style="display": inline_block><br>
   <img align ="center" alt="Vitor-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
