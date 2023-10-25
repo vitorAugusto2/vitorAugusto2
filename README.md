@@ -1,4 +1,4 @@
-# Olá, seja bem-vindo! Eu sou o Vitor
+# Olá, seja bem-vindo! 
 
 Sobre mim: 
 - 🙋🏻‍♂️ Estudante de Ciências da Computação no Centro Universitário FEI em São Bernardo do Campo
