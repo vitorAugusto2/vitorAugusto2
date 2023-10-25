@@ -1,5 +1,15 @@
 ### Bem-vindo a minha pagina, sou o vitor
 
+##
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=vitorAugusto2&show_icons=true&theme=one_dark_pro&include_all_commit=true&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img scr="https://github-readme-stats.vercel.app/api?username=vitorAugusto2&show_icons=true&theme=one_dark_pro&include_all_commit=true&count_private=true"/>
+</picture>
+
 ## 
 
 <div style="display": inline_block><br>
