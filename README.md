@@ -1,7 +1,5 @@
 # Olá, seja bem-vindo! Eu sou o Vitor
 
-##
-
 Sobre mim: 
 - Estudante de Ciências da Computação no Centro Universitário FEI em São Bernardo do Campo
 - Atualmente, estou em busca de oportunidades de estágio na área de Ciência de Dados
