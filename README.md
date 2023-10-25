@@ -26,9 +26,8 @@ Sobre mim:
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=one_dark_pro)
-
 <div> 
   <a href = "mailto:vitor.alp20@outlook.com"  target="_blank"></a>
   <a href= "https://www.linkedin.com/in/vitor-augusto-274a70229/"><img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 </div>
+
