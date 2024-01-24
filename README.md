@@ -2,7 +2,7 @@
 
 Sobre mim: 
 - 🙋🏻‍♂️ Estudante de Ciências da Computação no Centro Universitário FEI em São Bernardo do Campo
-- 👜 Atualmente, estou em busca de oportunidades de estágio na área de Ciência de Dados
+- 👜 Atualmente, estou em busca de oportunidades na área de Ciência de Dados
 - 📘 Estou focando inicialmente nos estudos sobre fundamentos de data science e, em seguida, planejo me especializar em machine learning
 - ✉️ Para entrar em contato, você pode me alcançar por e-mail em vitor.alp20@outlook.com ou através do meu perfil no [LinkedIn](https://www.linkedin.com/in/vitor-augusto-274a70229/)
 
