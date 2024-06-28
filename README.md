@@ -3,10 +3,8 @@
 Sobre mim: 
 - 🙋🏻‍♂️ Formado em Ciências da Computação no Centro Universitário FEI em São Bernardo do Campo
 - 👜 Atualmente, estou em busca de oportunidades na área de Ciência de Dados
-- 📘 Estou focando inicialmente nos estudos sobre fundamentos de data science e, em seguida, planejo me especializar em machine learning
+- 📘 Estou aprimorando meus conhecimentos em análise de dados e expandindo meu aprendizado em Business Intelligence (BI)
 - ✉️ Para entrar em contato, você pode me alcançar por e-mail em vitor.alp20@outlook.com ou através do meu perfil no [LinkedIn](https://www.linkedin.com/in/vitor-augusto-274a70229/)
-
-##
 
 <div class="image-container">
   <img src="https://github-readme-stats.vercel.app/api?username=vitorAugusto2&show_icons=true&theme=one_dark_pro&include_all_commit=true&count_private=true" width="50%" />
