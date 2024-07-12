@@ -2,8 +2,8 @@
 
 Sobre mim: 
 - 🙋🏻‍♂️ Formado em Ciências da Computação no Centro Universitário FEI em São Bernardo do Campo
-- 👜 Atualmente, estou em busca de oportunidades na área de Ciência de Dados
-- 📘 Estou aprimorando meus conhecimentos em análise de dados e expandindo meu aprendizado em Business Intelligence (BI)
+- 👜 Atualmente estudando Power BI para aprimorar habilidades de visualização de dados para criação de relatórios interativos e dashboards personalizados
+- 📘 Estou aprimorando meus conhecimentos em análise de dados e expandindo aprendizado em Business Intelligence (BI)
 - ✉️ Para entrar em contato, você pode me alcançar por e-mail em vitor.alp20@outlook.com ou através do meu perfil no [LinkedIn](https://www.linkedin.com/in/vitor-augusto-lemes-274a70229/)
 
 <div class="image-container">
