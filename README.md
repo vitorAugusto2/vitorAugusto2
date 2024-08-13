@@ -1,20 +1,15 @@
-# **Bem-vindo ao meu Portfólio !**
+# Bem-vindo ao meu Portfólio !
 
-Sobre mim: 
-- 🙋🏻‍♂️ Formado em Ciências da Computação no Centro Universitário FEI em São Bernardo do Campo
+**Sobre mim**
 
-Contato:
-<div>
-    <a href="mailto:vitor.alp20@outlook.com" target="_blank">
-        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook">
-    </a>
-    <a href="https://www.linkedin.com/in/vitor-augsuto-lemes-274a70229/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-</div>
+- 🙋🏻‍♂️ Formado em Ciências da Computação pelo Centro Universitário FEI em São Bernardo do Campo
+- 🔧 Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades e explorar novas tecnologias. Além disso, busco oportunidades na área de Ciência de Dados
+- 🌟 Aqui você encontrará projetos focados em análise e visualização de dados
+- 📫 Você pode me encontrar também em [LinkedIn](https://www.linkedin.com/in/vitor-augusto-274a70229/) ou pelo e-mail vitor.alp20@outlook.com
 
 
-## 🚀 **Linguagens e Ferramentas**
+
+## 🚀 Linguagens e Ferramentas
 
 ### 💻 Linguagens de Programação
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
