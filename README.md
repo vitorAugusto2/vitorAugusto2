@@ -8,7 +8,6 @@
 - 📫 Você pode me encontrar também em [LinkedIn](https://www.linkedin.com/in/vitor-augusto-274a70229/) ou pelo e-mail vitor.alp20@outlook.com
 
 
-
 ## 🚀 Linguagens e Ferramentas
 
 ### 💻 Linguagens de Programação
