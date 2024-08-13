@@ -6,7 +6,7 @@ Sobre mim:
 
 Contato:
 <div>
-    <a href="mailto:abeatrizplima@gmail.com" target="_blank">
+    <a href="mailto:vitor.alp20@outlook.com" target="_blank">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook">
     </a>
     <a href="https://www.linkedin.com/in/vitor-augsuto-lemes-274a70229/" target="_blank">
