@@ -6,6 +6,8 @@ Sobre mim:
 - 🙋🏻‍♂️ Formado em Ciências da Computação no Centro Universitário FEI em São Bernardo do Campo
 - ✉️ Para entrar em contato, você pode me alcançar por e-mail em vitor.alp20@outlook.com ou através do meu perfil no [LinkedIn](https://www.linkedin.com/in/vitor-augusto-lemes-274a70229/)
 
+---
+
 ## 🚀 **Linguagens e Ferramentas**
 ### 💻 Linguagens de Programação
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
