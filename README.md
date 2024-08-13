@@ -2,12 +2,12 @@
 
 Sobre mim: 
 - 🙋🏻‍♂️ Formado em Ciências da Computação no Centro Universitário FEI em São Bernardo do Campo
-- 
+- https://img.shields.io/badge/Microsoft_Outlook-0078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 
 Contato:
 <div>
     <a href="mailto:vitor.alp20@outlook.com" target="_blank">
-        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook">
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook">
     </a>
     <a href="https://www.linkedin.com/in/vitor-augsuto-lemes-274a70229/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -19,12 +19,13 @@ Contato:
 
 ### 💻 Linguagens de Programação
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Postgres](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=SQL&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=SQL&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 📊 Ciência de Dados
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234B5C6F.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
