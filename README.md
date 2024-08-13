@@ -14,7 +14,6 @@ Contato:
     </a>
 </div>
 
----
 
 ## 🚀 **Linguagens e Ferramentas**
 
