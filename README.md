@@ -7,6 +7,13 @@
 - 🌟 Aqui você encontrará projetos focados em análise e visualização de dados
 - 📫 Você pode me encontrar também em [LinkedIn](https://www.linkedin.com/in/vitor-augusto-274a70229/) ou pelo e-mail vitor.alp20@outlook.com
 
+---
+
+<div class="image-container">
+  <img src="https://github-readme-stats.vercel.app/api?username=vitorAugusto2&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorAugusto2&layout=compact&theme=dark" width="38%" />
+</div>
+
 
 ## 🚀 Linguagens e Ferramentas
 
