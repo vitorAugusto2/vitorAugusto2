@@ -2,7 +2,6 @@
 
 Sobre mim: 
 - 🙋🏻‍♂️ Formado em Ciências da Computação no Centro Universitário FEI em São Bernardo do Campo
-- https://img.shields.io/badge/Microsoft_Outlook-0078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 
 Contato:
 <div>
