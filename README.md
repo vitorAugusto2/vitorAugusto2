@@ -1,4 +1,4 @@
-# Bem-vindo ao meu Portfólio !
+# 🤖 Bem-vindo ao meu Portfólio !
 
 **Sobre mim**
 
