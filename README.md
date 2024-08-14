@@ -1,4 +1,4 @@
-# 🤖 Bem-vindo ao meu Portfólio !
+# Bem-vindo ao meu Portfólio !
 
 **Sobre mim**
 
@@ -15,7 +15,7 @@
 </div>
 
 
-## 🚀 Linguagens e Ferramentas
+## Linguagens e Ferramentas
 
 ### 💻 Linguagens de Programação
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
