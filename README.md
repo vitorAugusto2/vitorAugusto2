@@ -17,7 +17,7 @@
 
 ## Ferramentas e Tecnologias
 
-### 💻 Linguagens de Programação e Marcação 
+### 💻 Linguagens 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=SQL&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
