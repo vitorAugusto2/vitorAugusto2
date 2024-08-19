@@ -22,3 +22,5 @@
 | **📖 Planejamento e Organização** | ![Excalidraw](https://img.shields.io/badge/Excalidraw-%23D3A6F4.svg?style=for-the-badge&logo=Excalidraw&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-%23FFD700.svg?style=for-the-badge&logo=Miro&logoColor=black) |
 | **🐤 Conhecimento Básico**      | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-%23A9A9A9.svg?style=for-the-badge&logo=statsmodels&logoColor=white) |
 | **🐣 Aprendendo**              | ![ML](https://img.shields.io/badge/ML-%2300bfae.svg?style=for-the-badge&logo=Machine%20Learning&logoColor=white) ![DL](https://img.shields.io/badge/DL-%23FFB6C1.svg?style=for-the-badge&logo=Deep%20Learning&logoColor=white) |
+
+<img src="https://raw.githubusercontent.com/vitorAugusto2/vitorAugusto2/output/snake.svg" alt="Snake animation" />
