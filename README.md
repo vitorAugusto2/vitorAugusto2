@@ -3,7 +3,7 @@
 **Sobre mim**
 
 - 🙋🏻‍♂️ Formado em Ciências da Computação pelo Centro Universitário FEI em São Bernardo do Campo
-- 🔧 Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades e explorar novas tecnologias
+- 🔧 Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades e explorarando novas tecnologias
 - 🌟 Aqui você encontrará projetos focados em análise e visualização de dados
 - 📫 Você pode me encontrar também em [LinkedIn](https://www.linkedin.com/in/vitor-augusto-274a70229/) ou pelo e-mail vitor.alp20@outlook.com
 
