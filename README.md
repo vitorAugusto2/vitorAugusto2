@@ -4,8 +4,7 @@
 
 - 🙋🏻‍♂️ Bacharel em Ciências da Computação pelo Centro Universitário FEI. 
 - 🔧 Atualmente, estou cursando MBA em Data Science e Analytics pela USP/ESALQ e desenvolvendo projetos para aprimorar minhas habilidades
-- 📚 Estudando Machine Learning 
-- 🌟 Aqui você encontrará projetos focados em análise e visualização de dados
+- 🌟 Aqui você encontrará projetos voltados para análise exploratória, modelagem preditiva e visualização de dados
 - 📫 Você pode me encontrar também em [LinkedIn](https://www.linkedin.com/in/vitor-augusto-274a70229/) ou pelo e-mail vitor.alp20@outlook.com
 
 <div class="image-container">
