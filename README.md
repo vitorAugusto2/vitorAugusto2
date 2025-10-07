@@ -3,7 +3,7 @@
 **Sobre mim**
 
 - 🙋🏻‍♂️ Bacharel em Ciências da Computação pelo Centro Universitário FEI
-- 🔧 Atualmente, estou cursando MBA em Data Science e Analytics pela USP/ESALQ e estudando por meio de livros sobre dados
+- 🔧 Atualmente estou cursando MBA em Data Science e Analytics pela USP/ESALQ, aprimorando meus conhecimentos por meio de livros e projetos.
 - 🌟 Aqui você encontrará projetos de Banco de Dados, Análise Exploratória (EDA), Análise Descritiva e Análise Preditiva
 - 📫 Você pode me encontrar também em [LinkedIn](https://www.linkedin.com/in/vitor-augusto-274a70229/) ou pelo e-mail vitor.alp20@outlook.com
 
