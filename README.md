@@ -1,16 +1,15 @@
 <h2 align="center">Vitor Augusto</h2>
 
-- 🙋🏻‍♂️ Bacharel em Ciência da Computação pela FEI (2024) e pós-graduando em Ciência de Dados na USP (2026)
+- 🙋🏻‍♂️ Bacharel em Ciência da Computação pela FEI (2024) e pós-graduando em Ciência de Dados na USP (2026) 
 - 🔧 Aprimorando meus conhecimentos por meio de livros e prática
-- 🌟 Aqui você encontrará projetos de Análise de Dados, Ciência de Dados e Banco de dados, além de dicas de programação.
-- 📫 Você pode me encontrar também em [LinkedIn](https://www.linkedin.com/in/vitor-augusto-274a70229/) ou pelo e-mail vitor.alp20@outlook.com
+- 🌟 Aqui você encontrará projetos de Análise de Dados, Ciência de Dados e Banco de dados, além de dicas de programação 
+- 📫 Você pode me encontrar também em [LinkedIn](https://www.linkedin.com/in/vitor-augusto-274a70229/) ou pelo e-mail vitor.alp20@outlook.com 
 
-<h3 align="left">Atividade</h3>
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=vitorAugusto2&theme=tokyonight&hide_border=true" />
 </div>
 
-## Ferramentas e Tecnologias
+### Ferramentas e Tecnologias
 
 | Categoria                     |                                                                                                                                                      |
 |-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -21,7 +20,7 @@
 | **🐤 Conhecimento Básico**      | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |
 | **🧣 Outros** | ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) |
 
-## Referências e Inspirações
+### Referências e Inspirações
 - Nilo Ney Coutinho Menezes. [Introdução à Programação com Python – 4ª Edição: Algoritmos e lógica de programação para iniciantes](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Python-programa%C3%A7%C3%A3o/dp/8575228862/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3NOEHC9BRLIAU&dib=eyJ2IjoiMSJ9.IHHuke4kNwOfHi5rZImAHweBul6VXrSjqX7f1-GQHp6ZMNxZSkHCPckYyXNAvykwkVxvgaERB3QMF09UozJajtga1BE8JUF3kLPb8dGKqlk0NDwCVJ79PJGEDWOxn43h8PGVErKpf1Q_q0g0BsTHr50ivP702Crlls2l4IPDuuRcF8qpBshoaONtYKAhwxtNyHFdivtwdd-Sj6XlRawj_sTDvCL7oIHRGoPAQFxNs1c8Dteq-YZQpMJsXALwkxXqAMyGL2rerSc2umrC9T-gMt2QEISfegznvPih9-HgFmIxNaxkkcOn2N9ycq3JLLbAVa3chgp4ZnacO-qK0EYR8V373NwCIIPrrlt3OiCtnG5TOGA2l7PTZCKtiKX00C2WOuXhXVzqVttSDazJcsmYm5KWe3ghSKDfycNZsTUQppZHioR9he_GaVb1TK6aVBPd.rdHtDmiG7lv9q5-w_u_eWQRIsCvUkI0Tl8CdknfD1-M&dib_tag=se&keywords=Introdu%C3%A7%C3%A3o+%C3%A0+Programa%C3%A7%C3%A3o+com+Python&qid=1737116411&sprefix=python+para+an%C3%A1lise+de+dados%2Caps%2C223&sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
 - Alice Zhao. [SQL Guia Prático: Um guia para o uso de SQL](https://www.amazon.com.br/gp/product/8575228315/ref=ox_sc_saved_title_1?smid=A1ZZFT5FULY4LN&psc=1)
 - Cole Nussbaumer Knaflic. [Storytelling com Dados: um Guia Sobre Visualização de Dados Para Profissionais de Negócios ](https://www.amazon.com.br/Storytelling-com-Dados-Visualiza%C3%A7%C3%A3o-Profissionais/dp/8550804681/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=11F3G1M7B2O0K&dib=eyJ2IjoiMSJ9.LWVU6efodG-b3AmxINIHSEFL8CatVuDYeta2L4J8ArE2Vhl6iiOQzyy_LlCd4-EBnk-nh7LSD5qFnTfYXoUqIATzzsvmzP7EQ9IBliQ-MbB9KQPbgFWh2cTvq5m7c8MceUT0S-Ar9imJzT3eQZeKO9punv9mMUYwXrgTeBM_Q-MnDap64gR_lNB2M9K6ngNNnpSVUzCVjejkMqYaoviG5s0SUBiFJRSdLPIm-3Cys9ubxBRoBG9w1rGdgA-RTeEEM5Svgfhkrg9G33QiUEw52BcF1bw1UAZHJRAYpWDghUsE-wGurJqo0IqfCaIaqqoJePmU3DnTPhke1mSRyyU3PKTtKaD5OcRA1i_WTecAz8xHzxSK84YLJegtETc5STayQD3I6xCRblbWgbhXTJoltjC8M2rlxA7KzYy8gK9uckT6aWnd1ht0aeUQvVOoJoRd.j1xj1dedCaal0NLxs_HnzsgDaQsaJemO37DGIAckh2Q&dib_tag=se&keywords=Storytelling+com+Dados&qid=1737116379&sprefix=storytelling+com+dados%2Caps%2C199&sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
