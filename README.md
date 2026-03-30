@@ -1,15 +1,13 @@
-# Bem-vindo ao meu Portfólio !
-
-**Sobre mim**
+<h2 align="center">Vitor Augusto</h2>
 
 - 🙋🏻‍♂️ Bacharel em Ciência da Computação pela FEI (2024) e pós-graduando em Ciência de Dados na USP (2026)
 - 🔧 Aprimorando meus conhecimentos por meio de livros e prática
 - 🌟 Aqui você encontrará projetos de Análise de Dados, Ciência de Dados e Banco de dados, além de dicas de programação.
 - 📫 Você pode me encontrar também em [LinkedIn](https://www.linkedin.com/in/vitor-augusto-274a70229/) ou pelo e-mail vitor.alp20@outlook.com
 
-<div class="image-container">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitorAugusto2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorAugusto2&layout=compact&theme=tokyonight" width="45%" />
+<h3 align="left">Atividade</h3>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=vitorAugusto2&theme=tokyonight&hide_border=true" />
 </div>
 
 ## Ferramentas e Tecnologias
