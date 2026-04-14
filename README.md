@@ -1,8 +1,7 @@
 <h2 align="center">Vitor Augusto</h2>
 
-- 🙋🏻‍♂️ Bacharel em Ciência da Computação pela FEI (2024) e pós-graduando em Ciência de Dados na USP (2026) 
-- 🔧 Aprimorando meus conhecimentos por meio de livros e prática
-- 🌟 Aqui você encontrará projetos de Análise de Dados, Ciência de Dados e Banco de dados, além de dicas de programação 
+- 🙋🏻‍♂️ Bacharel em Ciência da Computação pela FEI (2024) e MBA em Ciência de Dados na USP (2026) 
+- 🌟 Aqui você encontrará projetos de Ciência de Dados 
 - 📫 Você pode me encontrar também em [LinkedIn](https://www.linkedin.com/in/vitor-augusto-274a70229/) ou pelo e-mail vitor.alp20@outlook.com 
 
 <div align="center">
