@@ -2,7 +2,7 @@
 
 - 🙋🏻‍♂️ Bacharel em Ciência da Computação pela FEI (2024) e MBA em Ciência de Dados na USP (2026) 
 - 🌟 Aqui você encontrará projetos de Ciência de Dados 
-- 📫 Você pode me encontrar também em [LinkedIn](https://www.linkedin.com/in/vitor-augusto-274a70229/) ou pelo e-mail vitor.alp20@outlook.com 
+- 📫 Você pode me enviar mensagem em [LinkedIn](https://www.linkedin.com/in/vitor-augusto-274a70229/) ou pelo e-mail vitor.alp20@outlook.com 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vitorAugusto2&theme=tokyonight&hide_border=true" />
